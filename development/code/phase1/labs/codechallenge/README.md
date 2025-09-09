@@ -46,9 +46,12 @@ To run the challenges locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Culprit58/code-challenge.git
-    cd codechallenge
+   git clone https://github.com/Culprit58/code-challenge.git 
+    cd code-challenge
      node gradeGenerator.js
      node speedDetector.js
      node salaryCalculator.js
 
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2025.
